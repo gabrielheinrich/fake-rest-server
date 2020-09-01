@@ -1,0 +1,13 @@
+{
+  "name": "fake-rest-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Heinrich <gabriel@codecampleipzig.de>",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server data.json"
+  },
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
